@@ -1,4 +1,4 @@
-text: test 안녕하세요 (isi text kamu)
+text: test 안녕하세요 (Nonton Stream Donghua Tanpa Iklan)
 Link Movie: 🔗 https://donghua.info/
 
 
@@ -6,7 +6,7 @@ media: (isi hanya url/link gambar, contoh: https://google.com/gambar1.jpg)
 url: (boleh di kosongin)
 hashtags: #film #movie #donghua #anime
 ---
-text: test 안녕하세요 (isi text kamu)
+text: test 안녕하세요 (Stream Donghua & Anime Gratis!)
 Link Movie: 🔗 https://donghua.info/
 
 
